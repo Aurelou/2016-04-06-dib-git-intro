@@ -12,4 +12,8 @@ Use git for version control
 
 Here are the results
 
+# Discussion
+
+You should use Git for anything important.
+
 
