@@ -13,3 +13,7 @@ This is a repo for DIB for the git repository
 2. item2
 1. item3
 1. item4
+
+```python
+print("hello world")
+```
